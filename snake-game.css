@@ -1,0 +1,11 @@
+.snake-game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#snake-game {
+    border: 1px solid #000;
+    background-color: black;
+}
