@@ -27,5 +27,5 @@ A simple WordPress plugin that adds a classic **Snake Game** to your website. Th
 
 ## 🎯 How to Use
 
-1. Add the following shortcode to any page or post:
+1. Add the following shortcode to any page or post: [snake_game]
 
